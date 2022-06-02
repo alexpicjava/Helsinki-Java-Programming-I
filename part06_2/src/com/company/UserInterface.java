@@ -1,16 +1,15 @@
 package com.company;
 
-import java.util.ArrayList;
 import java.util.Scanner;
 
 public class UserInterface {
 
     private Scanner scanner;
-    private ArrayList<String> words;
+    private WordSet wordSet;
 
     public UserInterface() {
         this.scanner = new Scanner(System.in);
-        this.words = new ArrayList<>();
+        this.wordSet = new WordSet();
     }
 
     public void start() {
@@ -19,22 +18,12 @@ public class UserInterface {
             System.out.print("Enter a word: ");
             String word = scanner.nextLine();
 
-            if (alreadyEntered(word)) {
+            if (wordSet.contains(word)) {
                 break;
             }
-            this.words.add(word);
+            this.wordSet.add(word);
         }
 
         System.out.println("You gave the same word twice!");
     }
-
-    public boolean alreadyEntered(String word) {
-        if (this.words.contains(word)) {
-            return true;
-        }
-        return false;
-    }
-
-
-
 }
