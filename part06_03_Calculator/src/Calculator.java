@@ -2,8 +2,8 @@ public class Calculator{
 
     private int value;
 
-    public Calculator(int value) {
-        this.value = value;
+    public Calculator() {
+        this.value = 0;
     }
     public void add(int number){
         this.value = this.value + number;

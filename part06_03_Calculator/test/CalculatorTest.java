@@ -5,7 +5,7 @@ public class CalculatorTest {
 
     @Test
     public void calculatorInitialValueZero(){
-        Calculator calculator = new Calculator(0);
+        Calculator calculator = new Calculator();
         assertEquals(0, calculator.getValue());
     }
 
