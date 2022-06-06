@@ -9,7 +9,7 @@ public class Calculator{
         this.value = this.value + number;
     }
     public void subtract(int number){
-        this.value = this.value + number;
+        this.value = this.value - number;
     }
     public int getValue(){
         return this.value;
