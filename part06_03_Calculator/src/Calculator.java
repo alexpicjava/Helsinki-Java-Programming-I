@@ -1,8 +1,8 @@
-public class Claculator {
+public class Calculator{
 
     private int value;
 
-    public Claculator(int value) {
+    public Calculator(int value) {
         this.value = value;
     }
     public void add(int number){
