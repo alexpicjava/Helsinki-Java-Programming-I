@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9c55db31-647f-49b8-b409-eb3f61618698" name="Changes" comment="# Commit v 3.8 Fixed subtract method after tested.">
+      <change beforePath="$PROJECT_DIR$/../part06_02_OneToMany/out/production/part06_02_OneToMany/GradeRegister.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part06_02_OneToMany/out/production/part06_02_OneToMany/Program.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part06_02_OneToMany/out/production/part06_02_OneToMany/Program.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part06_02_OneToMany/out/production/part06_02_OneToMany/UserInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/junit.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/part06_03_Calculator/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/part06_03_Calculator/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/part06_03_Calculator/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/part06_03_Calculator/.idea/libraries/junit.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/part06_03_Calculator/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/part06_03_Calculator/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/part06_03_Calculator/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/part06_03_Calculator/Calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/part06_03_Calculator/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/part06_03_Calculator/part06_03_Calculator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/part06_03_Calculator/CalculatorTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/part06_03_Calculator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/CalculatorTest.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="part06_03_calculator" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="ce71162d-fa98-47fc-a24f-0e356a947a7a" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="recentNewPullRequestHead">
+      <RepoCoordinatesHolder>
+        <option name="owner" value="alexpicjava" />
+        <option name="repository" value="Helsinki-Java-Programming-I-" />
+      </RepoCoordinatesHolder>
+    </option>
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="ce71162d-fa98-47fc-a24f-0e356a947a7a" />
+        <option name="url" value="https://github.com/alexpicjava/Helsinki-Java-Programming-I-.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2ADYjvdZdbllWvymhx5iQfcrn8s" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
+  }
+}</component>
+  <component name="RunManager" selected="JUnit.CalculatorTest.valueMinusTwoWhenTwoSubstracted">
+    <configuration name="All in part06_03_Calculator" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="part06_03_Calculator" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorTest.calculatorInitialValueZero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="part06_03_Calculator" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CalculatorTest" />
+      <option name="METHOD_NAME" value="calculatorInitialValueZero" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorTest.valueFiveWhenFiveAdded" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="part06_03_Calculator" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CalculatorTest" />
+      <option name="METHOD_NAME" value="valueFiveWhenFiveAdded" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorTest.valueMinusTwoWhenTwoSubstracted" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="part06_03_Calculator" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CalculatorTest" />
+      <option name="METHOD_NAME" value="valueMinusTwoWhenTwoSubstracted" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="part06_03_Calculator" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="part06_03_Calculator" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CalculatorTest.valueMinusTwoWhenTwoSubstracted" />
+        <item itemvalue="JUnit.CalculatorTest.valueFiveWhenFiveAdded" />
+        <item itemvalue="JUnit.CalculatorTest.calculatorInitialValueZero" />
+        <item itemvalue="JUnit.All in part06_03_Calculator" />
+        <item itemvalue="JUnit.CalculatorTest.valueMinusTwoWhenTwoSubstracted" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c55db31-647f-49b8-b409-eb3f61618698" name="Changes" comment="" />
+      <created>1654545765395</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654545765395</updated>
+    </task>
+    <task id="LOCAL-00001" summary="# Commit v 3.0 Project Start Part06_03_Calculator">
+      <created>1654545952601</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1654545952601</updated>
+    </task>
+    <task id="LOCAL-00002" summary="# Commit v 3.0 Creation class Calculator">
+      <created>1654546058349</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1654546058349</updated>
+    </task>
+    <task id="LOCAL-00003" summary="# Commit v 3.0 Updated class Calculator">
+      <created>1654546391891</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1654546391891</updated>
+    </task>
+    <task id="LOCAL-00004" summary="# Commit v 3.3 Creation Test Folder">
+      <created>1654546988437</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1654546988437</updated>
+    </task>
+    <task id="LOCAL-00005" summary="# Commit v 3.4 Creation class CalculationTest">
+      <created>1654547142661</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1654547142661</updated>
+    </task>
+    <task id="LOCAL-00006" summary="# Commit v 3.5 Updated Project Class Calculator and TestCalculator">
+      <created>1654547849438</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1654547849438</updated>
+    </task>
+    <task id="LOCAL-00007" summary="# Commit v 3.5 Updated Project Class Calculator and TestCalculator">
+      <created>1654547871741</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1654547871741</updated>
+    </task>
+    <task id="LOCAL-00008" summary="# Commit v 3.6 Updated Project to test Calculator initial value to 0.">
+      <created>1654548036021</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1654548036021</updated>
+    </task>
+    <task id="LOCAL-00009" summary="# Commit v 3.7 Two new Test Methods added in CalculatorTest.">
+      <created>1654549428620</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1654549428620</updated>
+    </task>
+    <task id="LOCAL-00010" summary="# Commit v 3.8 Fixed subtract method after tested.">
+      <created>1654549562109</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1654549562110</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="# Commit v 3.0 Project Start Part06_03_Calculator" />
+    <MESSAGE value="# Commit v 3.1 Creation class Calculator" />
+    <MESSAGE value="# Commit v 3.2 Updated class Calculator" />
+    <MESSAGE value="# Commit v 3.3 Creation Test Folder" />
+    <MESSAGE value="# Commit v 3.4 Creation class CalculationTest" />
+    <MESSAGE value="# Commit v 3.6 Updated Project" />
+    <MESSAGE value="# Commit v 3.6 Updated Project to test Calculator initial value to 0." />
+    <MESSAGE value="# Commit v 3.7 Two new Test Methods added in CalculatorTest." />
+    <MESSAGE value="# Commit v 3.8 Fixed subtract method after tested." />
+    <option name="LAST_COMMIT_MESSAGE" value="# Commit v 3.8 Fixed subtract method after tested." />
+  </component>
+</project>
