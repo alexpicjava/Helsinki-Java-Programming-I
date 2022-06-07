@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a758f14c-f7b4-481c-a7c8-e7cd903d89ee" name="Changes" comment="# Commit v5.6 Last Folder Updated">
+    <list default="true" id="a758f14c-f7b4-481c-a7c8-e7cd903d89ee" name="Changes" comment="# Commit v6.0 updated">
+      <change afterPath="$PROJECT_DIR$/../part06_03_maven/target/test-classes/CalculatorTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../part06_03_maven/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../part06_03_maven/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../part06_03_maven/target/classes/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part06_03_maven/target/classes/Calculator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../part06_03_maven/target/test-classes/CalculatorTest.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -148,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654610017944</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="# Commit v6.0 updated">
+      <created>1654616522048</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1654616522048</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -182,6 +190,7 @@
     <MESSAGE value="# Commit v5.3 Project closed" />
     <MESSAGE value="# Commit v5.5 Last Folder Updated" />
     <MESSAGE value="# Commit v5.6 Last Folder Updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="# Commit v5.6 Last Folder Updated" />
+    <MESSAGE value="# Commit v6.0 updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="# Commit v6.0 updated" />
   </component>
 </project>
