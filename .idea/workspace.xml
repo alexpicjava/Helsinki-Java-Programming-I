@@ -2,10 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8c2c097-969a-4a97-96f3-a1e8cb21b0f6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Java Programing I.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/part06_02_OneToMany/part06_02_OneToMany.iml" beforeDir="false" afterPath="$PROJECT_DIR$/part06_02_OneToMany/part06_02_OneToMany.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/part06_03_Calculator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/part06_03_Calculator/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/part06_2/part06_2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/part06_2/part06_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part06_03_Calculator/.idea/part06_03_Calculator.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part06_03_Calculator/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/part06_03_Calculator/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part06_03_Calculator/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/part06_03_Calculator/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part06_03_Calculator/out/production/part06_03_Calculator/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/part06_03_Calculator/out/production/part06_03_Calculator/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/part06_03_Calculator/out/production/part06_03_Calculator/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/part06_03_Calculator/out/production/part06_03_Calculator/.idea/libraries/junit.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/part06_03_Calculator/out/production/part06_03_Calculator/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/part06_03_Calculator/out/production/part06_03_Calculator/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/part06_03_Calculator/out/production/part06_03_Calculator/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/part06_03_Calculator/out/production/part06_03_Calculator/part06_03_Calculator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/part06_03_Calculator/out/test/part06_03_Calculator/CalculatorTest.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +33,9 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
