@@ -1,34 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9c55db31-647f-49b8-b409-eb3f61618698" name="Changes" comment="# Commit v 3.8 Fixed subtract method after tested.">
-      <change beforePath="$PROJECT_DIR$/../part06_02_OneToMany/out/production/part06_02_OneToMany/GradeRegister.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../part06_02_OneToMany/out/production/part06_02_OneToMany/Program.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part06_02_OneToMany/out/production/part06_02_OneToMany/Program.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../part06_02_OneToMany/out/production/part06_02_OneToMany/UserInterface.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/junit.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/part06_03_Calculator/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/part06_03_Calculator/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/part06_03_Calculator/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/part06_03_Calculator/.idea/libraries/junit.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/part06_03_Calculator/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/part06_03_Calculator/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/part06_03_Calculator/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/part06_03_Calculator/Calculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/part06_03_Calculator/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/part06_03_Calculator/part06_03_Calculator.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/part06_03_Calculator/CalculatorTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part06_03_Calculator.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Calculator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/CalculatorTest.java" beforeDir="false" />
-    </list>
+    <list default="true" id="9c55db31-647f-49b8-b409-eb3f61618698" name="Changes" comment="# Commit v 3.9 No idea" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -242,7 +215,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654549562110</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="# Commit v 3.9 No idea">
+      <created>1654550479468</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1654550479468</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -279,6 +259,7 @@
     <MESSAGE value="# Commit v 3.6 Updated Project to test Calculator initial value to 0." />
     <MESSAGE value="# Commit v 3.7 Two new Test Methods added in CalculatorTest." />
     <MESSAGE value="# Commit v 3.8 Fixed subtract method after tested." />
-    <option name="LAST_COMMIT_MESSAGE" value="# Commit v 3.8 Fixed subtract method after tested." />
+    <MESSAGE value="# Commit v 3.9 No idea" />
+    <option name="LAST_COMMIT_MESSAGE" value="# Commit v 3.9 No idea" />
   </component>
 </project>
