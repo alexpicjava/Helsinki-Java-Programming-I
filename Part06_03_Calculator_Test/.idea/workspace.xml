@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a758f14c-f7b4-481c-a7c8-e7cd903d89ee" name="Changes" comment="# Commit v5.5 Last Folder Updated" />
+    <list default="true" id="a758f14c-f7b4-481c-a7c8-e7cd903d89ee" name="Changes" comment="# Commit v5.6 Last Folder Updated">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,10 +60,10 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="JUnit.CalculatorTest.calculatorInitialValueZero">
+  <component name="RunManager" selected="JUnit.CalculatorTest.valueMinusTwoWhenTwoSubstracted">
     <configuration name="CalculatorTest.calculatorInitialValueZero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Part06_03_Calculator_Test" />
       <option name="PACKAGE_NAME" value="" />
@@ -137,7 +139,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654609707679</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="# Commit v5.6 Last Folder Updated">
+      <created>1654610017944</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1654610017944</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -145,7 +154,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="Part06_03_Calculator_Test" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -158,6 +179,7 @@
     <MESSAGE value="# Commit v5.2 Class CalculatorTest" />
     <MESSAGE value="# Commit v5.3 Project closed" />
     <MESSAGE value="# Commit v5.5 Last Folder Updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="# Commit v5.5 Last Folder Updated" />
+    <MESSAGE value="# Commit v5.6 Last Folder Updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="# Commit v5.6 Last Folder Updated" />
   </component>
 </project>
