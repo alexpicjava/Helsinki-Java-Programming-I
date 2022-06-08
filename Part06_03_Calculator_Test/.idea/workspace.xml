@@ -2,10 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a758f14c-f7b4-481c-a7c8-e7cd903d89ee" name="Changes" comment="# Commit v6.0 updated">
-      <change afterPath="$PROJECT_DIR$/../part06_03_maven/target/test-classes/CalculatorTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../part06_03_maven/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../part06_03_maven/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../part06_03_maven/target/classes/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part06_03_maven/target/classes/Calculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part06_03_Calculator_Test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Part06_03_Calculator_Test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testWhitMaven/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testWhitMaven/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testWhitMaven/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testWhitMaven/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testWhitMaven/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testWhitMaven/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testWhitMaven/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testWhitMaven/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testWhitMaven/src/main/java/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testWhitMaven/src/test/java/CalculatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testnomaven/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testnomaven/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testnomaven/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testnomaven/.idea/libraries/junit.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testnomaven/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testnomaven/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testnomaven/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testnomaven/lib/hamcrest-core-1.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testnomaven/lib/junit-4.12.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testnomaven/out/production/testnomaven/Calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testnomaven/out/test/testnomaven/CalculatorTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testnomaven/src/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testnomaven/test/CalculatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testnomaven/testnomaven.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/Calculator.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,21 +81,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="Downloaded.Files.Path.Enabled" value="true" />
-    <property name="Repository.Attach.Annotations" value="false" />
-    <property name="Repository.Attach.JavaDocs" value="false" />
-    <property name="Repository.Attach.Sources" value="false" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-  </component>
-  <component name="RunManager" selected="JUnit.CalculatorTest.valueMinusTwoWhenTwoSubstracted">
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Volumes/GoogleDrive/La meva unitat/Helsinki Java/Java Programing I/Part06_03_Calculator_Test",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.CalculatorTest.calculatorInitialValueZero">
     <configuration name="CalculatorTest.calculatorInitialValueZero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Part06_03_Calculator_Test" />
       <option name="PACKAGE_NAME" value="" />
@@ -99,9 +124,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.CalculatorTest.calculatorInitialValueZero" />
         <item itemvalue="JUnit.CalculatorTest.valueMinusTwoWhenTwoSubstracted" />
         <item itemvalue="JUnit.CalculatorTest.valueFiveWhenFiveAdded" />
-        <item itemvalue="JUnit.CalculatorTest.calculatorInitialValueZero" />
       </list>
     </recent_temporary>
   </component>
