@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="ExerciseManagement" />
+        <module name="ExerciseManagement - IntelliJ" />
       </profile>
     </annotationProcessing>
   </component>
