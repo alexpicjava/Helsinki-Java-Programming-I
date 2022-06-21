@@ -1,4 +1,4 @@
-package com.company;
+package com.company.model;
 
 import java.util.List;
 
@@ -8,12 +8,13 @@ public class Recipe {
     private int cookTime;
     private List<String> ingredients;
 
+    public Recipe() {
+    }
 
     public Recipe(String name, int cookTime, List<String> ingredients) {
         this.name = name;
         this.cookTime = cookTime;
         this.ingredients = ingredients;
-
     }
 
     public String getName() {
