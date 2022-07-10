@@ -1,15 +1,13 @@
 package com.company.model;
 
-import javax.persistence.Column;
-import javax.persistence.Entity;
-import javax.persistence.Id;
-import javax.persistence.Table;
+import javax.persistence.*;
 import java.util.List;
 @Entity
 @Table(name = "STUDENT")
 public class Recipe {
 
     @Id
+    @GeneratedValue(strategy = GenerationType.AUTO)
     @Column(name = "RECIPE_ID")
     private long recipe_id;
     @Column(name="NAME")
